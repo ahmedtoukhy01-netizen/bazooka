@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476386945179",
+    "project_id": "bazooka-34346",
+    "storage_bucket": "bazooka-34346.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476386945179:android:87e335629fa64ea731fe3e",
+        "android_client_info": {
+          "package_name": "com.example.second_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyG8GzNVLoKy_AP4Hh04F8VXZt1MWckRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
